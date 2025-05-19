@@ -8,9 +8,6 @@ function fn() {
     env = 'dev';
   }
 
-
-
-
   if (env == 'dev') {
   baseURL = 'https://reqres.in'
   } else if (env == 'cert') {
